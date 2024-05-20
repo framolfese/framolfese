@@ -12,9 +12,9 @@
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/francesco-molfese?style=flat&logo=linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrancesco-molfese-2b3567222%2F)
-![Static Badge](https://img.shields.io/badge/francesco-molfese?style=flat&logo=x&logoColor=white&color=black&link=https%3A%2F%2Fx.com%2Fframolfese)
-![Static Badge](https://img.shields.io/badge/francesco-molfese?style=flat&logo=google-scholar&logoColor=white&color=%2300BFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrancesco-molfese-2b3567222%2F)
+[![Linkedin](https://img.shields.io/badge/francesco-molfese?style=flat&logo=linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrancesco-molfese-2b3567222%2F)](https://www.linkedin.com/in/francesco-molfese-2b3567222/)
+[![Twitter](https://img.shields.io/badge/francesco-molfese?style=flat&logo=x&logoColor=white&color=black&link=https%3A%2F%2Fx.com%2Fframolfese)](https://x.com/framolfese)
+[![Google Scholar](https://img.shields.io/badge/francesco-molfese?style=flat&logo=google-scholar&logoColor=white&color=%2300BFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrancesco-molfese-2b3567222%2F)](https://scholar.google.com/citations?user=SkZtTEgAAAAJ&hl=it&oi=ao)
 
 <be>
 
@@ -28,7 +28,7 @@
 <td align="center">
 <strong>&nbsp;CNER: Concept and Named Entity Recognition</strong>
 <br />
-<a href="https://github.com/Babelscape/cner"><img height="120%" width="120%" alt="cner" src="assets/cner.png"> 
+<a href="https://github.com/Babelscape/cner"><img height="140%" width="140%" alt="cner" src="assets/cner.png"> 
 </a>
 </td>
 
