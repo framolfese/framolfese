@@ -35,7 +35,7 @@
 <td align="center">
 <strong>&nbsp;<img height="4%" width="4%" alt="cner" src="assets/crocodile.png"> CroCoAlign: A Cross-Lingual, Context-Aware and Fully-Neural Sentence Alignment System for Long Texts</strong>
 <br />
-<a href="https://github.com/Babelscape/CroCoAlign"><img height="80%" width="80%" alt="cner" src="assets/cner.png"> 
+<a href="https://github.com/Babelscape/CroCoAlign"><img height="80%" width="80%" alt="crocoalign" src="assets/crocoalign.png"> 
 </a>
 </td>
 
