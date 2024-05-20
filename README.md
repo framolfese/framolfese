@@ -28,7 +28,7 @@
 <td align="center">
 <strong>&nbsp;CNER: Concept and Named Entity Recognition</strong>
 <br />
-<a href="https://github.com/Babelscape/cner"><img height="80%" width="80%" alt="cner" src="assets/cner.png"> 
+<a href="https://github.com/Babelscape/cner"><img height="100%" width="100%" alt="cner" src="assets/cner.png"> 
 </a>
 </td>
 
