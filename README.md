@@ -20,7 +20,7 @@
 
 <hr>
 
-### Last Projects
+### Recent Projects
 
 <table width="100%">
 <tr>
@@ -28,9 +28,17 @@
 <td align="center">
 <strong>&nbsp;CNER: Concept and Named Entity Recognition</strong>
 <br />
-<a href="https://github.com/Babelscape/cner"><img height="80%" width="80%" alt="cner"> 
+<a href="https://github.com/Babelscape/cner"><img height="80%" width="80%" alt="cner" src="assets/cner.png"> 
 </a>
 </td>
+
+<td align="center">
+<strong>&nbsp;CNER: Concept and Named Entity Recognition</strong>
+<br />
+<a href="https://github.com/Babelscape/CroCoAlign"><img height="80%" width="80%" alt="cner" src="assets/cner.png"> 
+</a>
+</td>
+
 </table>
 
 <be>
