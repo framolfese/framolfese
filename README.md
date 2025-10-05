@@ -2,9 +2,8 @@
    <h1>Hi there, I'm Francesco Molfese! 👋 </h1>   
 </div>
 
-
-- Ph.D. Student @ [SapienzaNLP](http://sapienzanlp.uniroma1.it)
-- Previously: NLP Engineer @ [Babelscape](https://babelscape.com)
+- Applied Scientist Intern @AmazonAGI
+- Ph.D. Student in AI and NLP @[SapienzaNLP](http://sapienzanlp.uniroma1.it)
 
 <hr>
 
