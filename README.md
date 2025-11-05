@@ -1,46 +1,85 @@
 <div align="center">
-   <h1>Hi there, I'm Francesco Molfese! 👋 </h1>   
+
+# 👋 Hi, I'm Francesco Molfese
+
+### 🤖 AI Researcher | 🎓 Ph.D. Student in NLP
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/francesco-molfese-2b3567222/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/framolfese">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=SkZtTEgAAAAJ&hl=it&oi=ao">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Large+Language+Models;Reasoning;LLM+Evaluation;Question+Answering" alt="Typing SVG" />
+
 </div>
 
-- Applied Scientist Intern @AmazonAGI
-- Ph.D. Student in AI and NLP @[SapienzaNLP](http://sapienzanlp.uniroma1.it)
+---
 
-<hr>
+## 🎯 About Me
 
-### Contacts
+I'm a Ph.D. student in AI and Natural Language Processing at **Sapienza University of Rome**, working with the [SapienzaNLP](http://sapienzanlp.uniroma1.it) research group. Previously, I was an Applied Scientist Intern at Amazon AGI (May 2025 - October 2025).
 
-<br>
+### 🔬 Research Interests
 
-[![Linkedin](https://img.shields.io/badge/francesco-molfese?style=flat&logo=linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrancesco-molfese-2b3567222%2F)](https://www.linkedin.com/in/francesco-molfese-2b3567222/)
-[![Twitter](https://img.shields.io/badge/francesco-molfese?style=flat&logo=x&logoColor=white&color=black&link=https%3A%2F%2Fx.com%2Fframolfese)](https://x.com/framolfese)
-[![Google Scholar](https://img.shields.io/badge/francesco-molfese?style=flat&logo=google-scholar&logoColor=white&color=%2300BFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrancesco-molfese-2b3567222%2F)](https://scholar.google.com/citations?user=SkZtTEgAAAAJ&hl=it&oi=ao)
+My research focuses on:
+- 🧠 **Large Language Models** - Understanding and improving LLM capabilities
+- 🤔 **Reasoning** - Developing systems that can reason effectively
+- ✅ **Evaluation** - Creating better methodologies for assessing LLMs and AI systems
+- ❓ **Question Answering** - Advancing QA systems and their reliability
 
-<be>
+---
 
-<hr>
-
-### Recent Projects
+## 🚀 Recent Projects
 
 <table width="100%">
-<tc>
+<tr>
 
-<td align="center">
-<strong>&nbsp;CNER: Concept and Named Entity Recognition</strong>
-<br />
-<a href="https://github.com/Babelscape/cner"><img height="140%" width="140%" alt="cner" src="assets/cner.png"> 
+<td width="50%" valign="top">
+
+### 🦓 ZEBRA
+**Zero-Shot Example-Based Retrieval Augmentation for Commonsense Question Answering**
+
+<a href="https://github.com/SapienzaNLP/zebra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapienzaNLP&repo=zebra&theme=tokyonight&hide_border=true" width="100%" alt="ZEBRA"/>
 </a>
+
+> A retrieval augmentation framework designed to enhance LLM commonsense question answering capabilites.
+
+**Key Features:**
+- 🔍 Advanced retrieval mechanisms
+- 🧠 Commonsense reasoning enhancement
+- ⚡ Efficient knowledge integration
+
+[**🔗 Explore ZEBRA →**](https://github.com/SapienzaNLP/zebra)
+
 </td>
 
-<td align="center">
-<strong>&nbsp;<img height="4%" width="4%" alt="cner" src="assets/crocodile.png"> CroCoAlign: A Cross-Lingual, Context-Aware and Fully-Neural Sentence Alignment System for Long Texts</strong>
-<br />
-<a href="https://github.com/Babelscape/CroCoAlign"><img height="80%" width="80%" alt="crocoalign" src="assets/crocoalign.png"> 
+<td width="50%" valign="top">
+
+### ✅ Right Answer, Wrong Score
+**Uncovering the Inconsistencies of LLM Evaluation in Multiple Choice Question Answering**
+
+<a href="https://github.com/SapienzaNLP/mcqa-eval">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapienzaNLP&repo=mcqa-eval&theme=tokyonight&hide_border=true" width="100%" alt="MCQA Eval"/>
 </a>
+
+> Challenging the status quo in MCQA evaluation. This project exposes critical issues in how we evaluate question answering systems and proposes better methodologies.
+
+**Key Features:**
+- 🎯 Results and recommendations for reliable LLM evaluation
+- 📈 In-depth analysis of existing methods
+- 🔬 Novel benchmark to assess LLM-based answer extraction reliability
+
+[**🔗 Explore the Project →**](https://github.com/SapienzaNLP/mcqa-eval)
+
 </td>
 
+</tr>
 </table>
-
-<be>
-
-<hr>
-
