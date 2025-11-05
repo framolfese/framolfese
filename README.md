@@ -24,7 +24,7 @@
 
 ## 🎯 About Me
 
-I'm a Ph.D. student in AI and Natural Language Processing at **Sapienza University of Rome**, working with the [SapienzaNLP](http://sapienzanlp.uniroma1.it) research group. Previously, I was an Applied Scientist Intern at Amazon AGI (May 2025 - October 2025).
+I'm a Ph.D. student in AI and Natural Language Processing at **Sapienza University of Rome**, working with the [SapienzaNLP](http://sapienzanlp.uniroma1.it) research group. Recently, I was an Applied Scientist Intern at Amazon AGI (May 2025 - October 2025).
 
 ### 🔬 Research Interests
 
