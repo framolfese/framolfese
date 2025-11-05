@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Francesco Molfese
 
-### 🤖 AI Researcher | 🎓 Ph.D. Student in NLP
+### 🤖 AI Researcher | 🎓 Ph.D. Student in AI and NLP
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francesco-molfese-2b3567222/">
