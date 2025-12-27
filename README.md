@@ -5,7 +5,7 @@
 ### 🤖 AI Researcher | 🎓 Ph.D. Student in AI and NLP
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/francesco-molfese-2b3567222/">
+  <a href="https://www.linkedin.com/in/francesco-maria-molfese-2b3567222/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/framolfese">
